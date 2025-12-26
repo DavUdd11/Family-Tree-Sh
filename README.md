@@ -1,4 +1,4 @@
-Family Tree (Racket Coursework)
+# Family Tree (Racket Coursework)
 
 A short Racket / Scheme coursework project from my first year at university that stores a small family tree (maternal + paternal branches) and runs a set of queries on it (living members, ages, sorting, renaming, etc.).
 
